@@ -27,14 +27,14 @@ Permite **cadastrar, listar, editar e excluir** alunos diretamente pela interfac
 ---
 
 ## 🗂 Estrutura de pastas
-
+```
 crud_alunos/
 │
 ├── conexao.php       # Conexão com o banco via PDO
 ├── index.php         # Página principal (listar e cadastrar)
 ├── editar.php        # Edição de alunos
 └── excluir.php       # Exclusão de alunos
-
+```
 ---
 
 ## 🧩 Banco de Dados
