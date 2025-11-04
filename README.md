@@ -69,7 +69,7 @@ Edite o arquivo `conexao.php` com os dados do seu MySQL:
 
 ```php
 $host = 'localhost';
-$dbname = 'escola';
+$dbname = 'alunos';
 $username = 'root';
 $password = '';
 ````
