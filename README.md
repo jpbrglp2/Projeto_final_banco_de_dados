@@ -60,7 +60,7 @@ CREATE TABLE alunos (
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/jpbrglp2/Projeto_final_banco_de_dados
-cd crud_alunos
+cd Projeto_final_banco_de_dados
 ````
 
 ### 2️⃣ Configurar a conexão
