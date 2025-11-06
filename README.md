@@ -42,7 +42,7 @@ crud_alunos/
 Crie um banco chamado `alunos` e a tabela `alunos`:
 
 ```sql
-CREATE DATABASE escola;
+CREATE DATABASE alunos;
 USE escola;
 
 CREATE TABLE alunos (
