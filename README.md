@@ -43,7 +43,7 @@ Crie um banco chamado `alunos` e a tabela `alunos`:
 
 ```sql
 CREATE DATABASE alunos;
-USE escola;
+USE alunos;
 
 CREATE TABLE alunos (
   id INT(4) NOT NULL AUTO_INCREMENT,
